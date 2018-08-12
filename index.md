@@ -143,6 +143,6 @@ The following are some reports and blogs made by me during the GSoC period:
 
 Final Work Demo
 -----------
-**Video:** [Link](https://www.youtube.com/watch?v=a0_vqdg4-I4)
+**Video:** [Link](https://www.youtube.com/watch?v=a0_vqdg4-I4)  
 **Demo Slides:** [Link](https://docs.google.com/presentation/d/10RhFbBVFWrOCpdmCHc_6VnjouiBK1WrENZBF4HrBJ70/edit?usp=sharing)
 
