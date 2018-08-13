@@ -104,6 +104,7 @@ The following is a list of PRs sent by me during he GSoC period:
 58. [Link](https://github.com/systers/sysbot/pull/148) : Added a test dictionary for sample workspace
 59. [Link](https://github.com/systers/sysbot/pull/151) : Added feature to label issues from Slack. Added tests
 60. [Link](https://github.com/systers/sysbot/pull/152) : Approve command versatile
+61. [Link](https://github.com/systers/sysbot/pull/158) : Added minor fixes to pass tests and change PR template
 
 
 Documentation Added
